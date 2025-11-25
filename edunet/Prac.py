@@ -1,0 +1,1 @@
+weekly_temperatures = [25,27,28]
